@@ -53,3 +53,9 @@
 .input-field[type='text'] {
     outline: none;
 }
+.list-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
